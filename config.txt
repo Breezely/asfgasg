@@ -1,0 +1,6 @@
+token=NTI5OTU4MTY1NDYzMzAyMTQ0.Dw4ZzA.YnYbLCU_EfOz1G8TccS6mFLmKf0
+owner=459273990989545472
+prefix=2
+status=IDLE
+songinstatus=true
+stayinchannel=false

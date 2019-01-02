@@ -1,1 +1,3 @@
-# asfgasg
+# Julian
+
+Julian Music Bot || MagixGames
